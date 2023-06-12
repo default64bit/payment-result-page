@@ -24,14 +24,14 @@ There is a `getTransactionDetails_api.js` file inside the repo. it contains a fu
 
 ##### The Query Params
 
-###### status
+###### `status`
 
 | Values  | Description                               |
 | ------- | ----------------------------------------- |
 | **OK**  | Transaction was done completly            |
 | **NOK** | Transaction did not happen fo some reason |
 
-###### message
+###### `message`
 
 | Values                             | Description                                                                             |
 | ---------------------------------- | --------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ There is a `getTransactionDetails_api.js` file inside the repo. it contains a fu
 | **TransactionFailedAndWillBounce** | The transaction did not complete correctly and money will be bounced in at max 72 hours |
 | **SuccessfulPayment**              | Transaction was successful                                                              |
 
-###### transactionID
+###### `transactionID`
 
 ID of the transaction that user just did
 
