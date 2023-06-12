@@ -1,5 +1,4 @@
-# Payment Results Sample Page
-
+# ![](https://cdn-icons-png.flaticon.com/32/4196/4196427.png) Payment Results Sample Page
 ---
 
 We need a simple page to show payment results so that when our users come back from a payment gateway they can view a summary of what their transaction looks like and the status of their bill/factor that they just paid.
